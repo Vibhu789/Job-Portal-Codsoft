@@ -34,16 +34,17 @@ A full-stack Job Board web application built as part of my **CodSoft Level 2 Int
 - MongoDB
 
 **Additional Info**
-Proud to unveil my JOB-BOARD Portal WebPage, created as part of my CodSoft Internship journey! Built using MongoDB, Express.js, React.js, Node.js, this project was more than just code it was a deep dive into real-world frontend development and backend development.
+<pre> ```Proud to unveil my JOB-BOARD Portal WebPage, created as part of my CodSoft Internship journey! Built using MongoDB, Express.js, React.js, Node.js, this project was more than just code it was a deep dive into real-world frontend development and backend development.
 
 My React frontend should now open in your browser on: http://localhost:3000
 Server running on port: http://localhost:5000
 And we learn more about dependencies: express mongoose cors bcryptjs jsonwebtoken dotenv nodemon etc
 Use Tools – MongoDB , Hoppscotch, Git and Github
+ ```<pre>
 
 ## 📁 Project Structure
 
-job_board_codsoft/
+<pre> ```job_board_codsoft/
 │
 ├── client/                        # Frontend (React)
 │   ├── node_modules/             # Frontend dependencies
@@ -72,4 +73,5 @@ job_board_codsoft/
 │
 ├── .gitignore                    # Git ignored files
 └── README.md                     # Project documentation
+ ```<pre> 
 
